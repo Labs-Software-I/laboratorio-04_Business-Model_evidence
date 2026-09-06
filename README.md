@@ -5,13 +5,13 @@ El proyecto abarca el diseño del modelo de negocio, el análisis de actores y l
 ---
 
 ## Tabla de Contenidos
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Modelado de Casos de Uso](#-modelado-de-casos-de-uso)
-- [Actores del Sistema](#-actores-del-sistema)
-- [Casos de Uso Principales](#-casos-de-uso-principales)
-- [Visualización de Diagramas](#-visualización-de-diagramas)
-- [Autor](#-autor)
+- [Descripción del Proyecto](##-descripción-del-proyecto)
+- [Estructura del Repositorio](##-estructura-del-repositorio)
+- [Modelado de Casos de Uso](##-modelado-de-casos-de-uso)
+- [Actores del Sistema](##-actores-del-sistema)
+- [Casos de Uso Principales](##-casos-de-uso-principales)
+- [Visualización de Diagramas](##-visualización-de-diagramas)
+- [Autor](##-autor)
 
 ---
 
@@ -79,4 +79,3 @@ Los diagramas arquitectónicos del modelo de negocio se encuentran guardados en 
 
 - **David Francisco Alonso Rodríguez** — *Código: 160005001*
 - Universidad de los Llanos
-

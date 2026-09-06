@@ -4,17 +4,6 @@ El proyecto abarca el diseño del modelo de negocio, el análisis de actores y l
 
 ---
 
-## Tabla de Contenidos
-- [Descripción del Proyecto](##-descripción-del-proyecto)
-- [Estructura del Repositorio](##-estructura-del-repositorio)
-- [Modelado de Casos de Uso](##-modelado-de-casos-de-uso)
-- [Actores del Sistema](##-actores-del-sistema)
-- [Casos de Uso Principales](##-casos-de-uso-principales)
-- [Visualización de Diagramas](##-visualización-de-diagramas)
-- [Autor](##-autor)
-
----
-
 ## Descripción del Proyecto
 
 La plataforma ofrece una solución en tiempo real para gestionar clases grupales de spinning en un gimnasio, optimizando el control de cupos limitados por la disponibilidad física de bicicletas. 
